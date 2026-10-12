@@ -119,7 +119,7 @@ MITRE ATT&CK® is external work maintained by The MITRE Corporation. MITRE names
 
 The ATT&CK Terms of Use (https://attack.mitre.org/resources/legal-and-branding/terms-of-use/) grant a non-exclusive, royalty-free license to use ATT&CK for research, development, and commercial purposes. Any copy made for such purposes is authorized provided that MITRE's copyright designation and the license are reproduced in that copy. The Terms of Use state that MITRE does not claim ATT&CK enumerates all possible adversary behaviors and that using ATT&CK to address full categories of techniques will not guarantee full defensive coverage. ATT&CK is provided on an "as is" basis. MITRE's FAQ governs how the ATT&CK name may be used and represented.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ### Required attribution
 
